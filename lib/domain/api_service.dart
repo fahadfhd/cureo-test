@@ -31,7 +31,6 @@ class ApiService {
         },
       );
 
-// log("response ===== ${response.data.toString()}");
       
 
       
